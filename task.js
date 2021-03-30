@@ -1,10 +1,10 @@
 const greetings = "Hello world!";
 console.log(greetings);
 
-const firstThing = "This is my first js file and I hope I do well!"
-console.log(firstThing); 
+const firstThing = "This is my first js file and I hope I do well!";
+console.log(firstThing);
 
-console.log ("Hello world";)
+console.log("Hello world");
 console.log("This is my first js file here");
 
 /* Questions 
