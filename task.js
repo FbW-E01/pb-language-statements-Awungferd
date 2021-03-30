@@ -9,7 +9,7 @@ console.log("This is my first js file here");
 
 /* Questions 
 NB: 
---- There is a problem with the question. If we have to declare, assing, and console.log then there is no parenthesis in the first statement.
+--- There is a problem with the question. If we have to declare, assign, and console.log then there is no parenthesis in the first statement.
 --- So I had to use console.log directly.
 1. Remove a parenthesis from the first statement and run the code. Does your statement print?
 No
